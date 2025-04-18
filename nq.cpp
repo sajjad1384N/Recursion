@@ -76,3 +76,9 @@ public:
         return ans;
     }
 };
+int main(){
+    Solution solution;
+    int n;
+    cout<<"please enter any number to solve n-queens problem"<<endl;
+    cin>>n;
+}
