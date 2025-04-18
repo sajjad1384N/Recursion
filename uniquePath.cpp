@@ -59,3 +59,7 @@ public:
         return result;
     }
 };
+int main(){
+    Solution solution;
+    vector<vector<int>> grid={{1,0,0,1},{0,1,0,1}};
+}
